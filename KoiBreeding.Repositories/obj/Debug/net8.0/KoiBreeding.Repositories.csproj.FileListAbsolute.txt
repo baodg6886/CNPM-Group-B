@@ -1,0 +1,14 @@
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\bin\Debug\net8.0\KoiBreeding.Repositories.deps.json
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\bin\Debug\net8.0\KoiBreeding.Repositories.runtimeconfig.json
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\bin\Debug\net8.0\KoiBreeding.Repositories.dll
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\bin\Debug\net8.0\KoiBreeding.Repositories.pdb
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\obj\Debug\net8.0\KoiBreeding.Repositories.csproj.AssemblyReference.cache
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\obj\Debug\net8.0\KoiBreeding.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\obj\Debug\net8.0\KoiBreeding.Repositories.AssemblyInfoInputs.cache
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\obj\Debug\net8.0\KoiBreeding.Repositories.AssemblyInfo.cs
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\obj\Debug\net8.0\KoiBreeding.Repositories.csproj.CoreCompileInputs.cache
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\obj\Debug\net8.0\KoiBreeding.Repositories.dll
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\obj\Debug\net8.0\refint\KoiBreeding.Repositories.dll
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\obj\Debug\net8.0\KoiBreeding.Repositories.pdb
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\obj\Debug\net8.0\KoiBreeding.Repositories.genruntimeconfig.cache
+D:\AppData\Visual Studio\Repos\KoiBreeding\KoiBreeding.Repositories\obj\Debug\net8.0\ref\KoiBreeding.Repositories.dll
