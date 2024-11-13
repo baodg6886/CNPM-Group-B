@@ -7,8 +7,8 @@ namespace Koi.Repositories
 {
     public interface IKoiRepository : IGenericRepository<KoiFish>
     {
-        Task<KoiFish?> GetKoiByNameAsync(string name);  // Ví dụ, tìm cá Koi theo tên
-        Task<IEnumerable<KoiFish>> GetKoisByAgeAsync(int age);  // Lọc cá theo độ tuổi
+        Task<KoiFish?> GetKoiByNameAsync(string name);  
+        Task<IEnumerable<KoiFish>> GetKoisByAgeAsync(int age);  
         Task<IEnumerable<KoiFish>> GetKoisByNameAsync(string name);
         Task<IEnumerable<KoiFish>> GetKoisByColorAsync(string color);
         Task<IEnumerable<KoiFish>> GetKoisByWeightAsync(double minWeight);
