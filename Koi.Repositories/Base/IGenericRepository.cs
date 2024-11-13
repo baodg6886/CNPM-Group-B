@@ -12,17 +12,9 @@ namespace Koi.Repositories.Base
         Task AddAsync(T entity);
         Task UpdateAsync(T entity);
         Task DeleteAsync(int id);
-
-        // Tìm kiếm theo điều kiện tùy chỉnh
         Task<IEnumerable<T>> FindAsync(Func<T, bool> predicate);
-
-        // Xóa theo điều kiện tùy chỉnh
         Task DeleteAsync(Func<T, bool> predicate);
-
-        // Lấy dữ liệu theo truy vấn LINQ
         Task<IEnumerable<T>> GetByQueryAsync(Func<IQueryable<T>, IQueryable<T>> query);
-
-        // Lưu thay đổi vào cơ sở dữ liệu
         Task SaveChangesAsync();
     }
 }
