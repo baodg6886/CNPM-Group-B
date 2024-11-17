@@ -1,5 +1,0 @@
-C:\Users\HI\source\repos\KoiGame\Koi.Repositories\obj\Debug\net8.0\Koi.Repositories.csproj.AssemblyReference.cache
-C:\Users\HI\source\repos\KoiGame\Koi.Repositories\obj\Debug\net8.0\Koi.Repositories.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HI\source\repos\KoiGame\Koi.Repositories\obj\Debug\net8.0\Koi.Repositories.AssemblyInfoInputs.cache
-C:\Users\HI\source\repos\KoiGame\Koi.Repositories\obj\Debug\net8.0\Koi.Repositories.AssemblyInfo.cs
-C:\Users\HI\source\repos\KoiGame\Koi.Repositories\obj\Debug\net8.0\Koi.Repositories.csproj.CoreCompileInputs.cache
