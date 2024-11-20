@@ -1,0 +1,79 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>Cá Koi</h1>
+<div id="carousel1" class="splide">
+    <div class="splide__track">
+        <ul class="splide__list">
+            <li class="splide__slide"><a href=""><img src="KOI/asagi.jpg" alt="Koi Image 1"></a></li>
+            <li class="splide__slide"><a href=""><img src="KOI/doitsu-goshiki.jpg" alt="Koi Image 2"></a></li>
+            <li class="splide__slide"><a href=""><img src="KOI/doitsu-hariwake.jpg" alt="Koi Image 3"></a></li>
+            <li class="splide__slide"><a href=""><img src="KOI/doitsu-karashigoi.jpg" alt="Koi Image 4"></a></li>
+            <li class="splide__slide"><a href=""><img src="KOI/doitsu-kujaku.jpg" alt="Koi Image 5"></a></li>
+        </ul>
+    </div>
+</div>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        new Splide('#carousel1', {
+            type: 'loop',
+            perPage: 5,
+            perMove: 1,
+            gap: '10px',
+            pagination: false,
+            arrows: true,
+            breakpoints: {
+                1024: { perPage: 3 },
+                768: { perPage: 2 },
+                480: { perPage: 1 },
+            },
+        }).mount();
+
+        new Splide('#carousel2', {
+            type: 'loop',
+            perPage: 5,
+            perMove: 1,
+            gap: '10px',
+            pagination: false,
+            arrows: true,
+            breakpoints: {
+                1024: { perPage: 3 },
+                768: { perPage: 2 },
+                480: { perPage: 1 },
+            },
+        }).mount();
+
+        new Splide('#carousel3', {
+            type: 'loop',
+            perPage: 5,
+            perMove: 1,
+            gap: '10px',
+            pagination: false,
+            arrows: true,
+            breakpoints: {
+                1024: { perPage: 3 },
+                768: { perPage: 2 },
+                480: { perPage: 1 },
+            },
+        }).mount();
+
+        new Splide('#carousel4', {
+            type: 'loop',
+            perPage: 5,
+            perMove: 1,
+            gap: '10px',
+            pagination: false,
+            arrows: true,
+            breakpoints: {
+                1024: { perPage: 3 },
+                768: { perPage: 2 },
+                480: { perPage: 1 },
+            },
+        }).mount();
+    });
+</script>

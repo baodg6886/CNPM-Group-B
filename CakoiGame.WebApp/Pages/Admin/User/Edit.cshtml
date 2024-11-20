@@ -1,0 +1,56 @@
+﻿@page
+@model CakoiGame.WebApp.Pages.Admin.User.EditModel
+@{
+}
+
+
+<div class="container mt-5 custom-shadow text-white bg-dark">
+    <div class="card-header">
+        <h2 class="mb-0">@ViewData["Title"]</h2>
+    </div>
+    <div class="card-body">
+        <form asp-action="Edit" method="post">
+            <div class="mb-3">
+                <label asp-for="Users.IdqlUser" class="form-label fw-bold">Người Dùng ID:</label>
+                <input asp-for="Users.IdqlUser" class="form-control" readonly />
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Users.UsernameUser" class="form-label fw-bold">Tên Người Dùng:</label>
+                <input asp-for="Users.UsernameUser" class="form-control custom-input" placeholder="Nhập tên người dùng" />
+                <span asp-validation-for="Users.UsernameUser" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Users.PasswordUser" class="form-label fw-bold">Mật Khẩu:</label>
+                <input asp-for="Users.PasswordUser" class="form-control custom-input" placeholder="Nhập mật khẩu" />
+                <span asp-validation-for="Users.PasswordUser" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Users.PhoneUser" class="form-label fw-bold">Số Điện Thoại (nếu có):</label>
+                <input asp-for="Users.PhoneUser" class="form-control custom-input" placeholder="Nhập số điện thoại" />
+                <span asp-validation-for="Users.PhoneUser" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Users.EmailUser" class="form-label fw-bold">Địa Chỉ Email (nếu có):</label>
+                <input asp-for="Users.EmailUser" class="form-control custom-input" placeholder="Nhập địa chỉ email" />
+                <span asp-validation-for="Users.EmailUser" class="text-danger"></span>
+            </div>
+            <div class="mb-3 custom-select-container">
+                <label asp-for="Users.AccessUser" class="form-label fw-bold me-3">Quyền Truy Cập Tài Khoản:</label>
+                <select asp-for="Users.AccessUser" style="padding: 4px; border: 1px solid #ccc; border-radius: 5px; background-color: #f9f9f9; font-size: 14px; color: #333; cursor: pointer; appearance: auto; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: border-color 0.3s ease, box-shadow 0.3s ease; position: relative; top: 1px; margin-right: 10px;">
+                    <option value="none">Chọn</option>
+                    <option value="user">user</option>
+                    <option value="admin">admin</option>
+                </select>
+                <span asp-validation-for="Users.AccessUser" class="text-danger"></span>
+            </div>
+            <div class="d-flex justify-content-between">
+                <input type="submit" value="Cập nhật tài khoản" class="btn btn-warning px-4 custom-btn" />
+                <a class="btn btn-secondary px-4 custom-btn" asp-page="Index">Quay trở lại</a>
+            </div>
+        </form>
+    </div>
+</div>

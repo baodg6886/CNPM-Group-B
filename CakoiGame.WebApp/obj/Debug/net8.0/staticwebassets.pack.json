@@ -1,0 +1,2053 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CakoiGame.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CakoiGame.WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\asagi.jpg",
+      "PackagePath": "staticwebassets\\KOI\\asagi.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\doitsu-goshiki.jpg",
+      "PackagePath": "staticwebassets\\KOI\\doitsu-goshiki.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\doitsu-hariwake.jpg",
+      "PackagePath": "staticwebassets\\KOI\\doitsu-hariwake.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\doitsu-karashigoi.jpg",
+      "PackagePath": "staticwebassets\\KOI\\doitsu-karashigoi.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\doitsu-kujaku.jpg",
+      "PackagePath": "staticwebassets\\KOI\\doitsu-kujaku.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\doitsu-sanke.jpg",
+      "PackagePath": "staticwebassets\\KOI\\doitsu-sanke.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\hikari-hi-utsuri.jpg",
+      "PackagePath": "staticwebassets\\KOI\\hikari-hi-utsuri.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\hikari-kin-showa.jpg",
+      "PackagePath": "staticwebassets\\KOI\\hikari-kin-showa.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\ki-utsuri.jpg",
+      "PackagePath": "staticwebassets\\KOI\\ki-utsuri.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\kindai-goshiki.jpg",
+      "PackagePath": "staticwebassets\\KOI\\kindai-goshiki.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\kuro-goshiki.jpg",
+      "PackagePath": "staticwebassets\\KOI\\kuro-goshiki.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\mameshibori-goshiki.jpg",
+      "PackagePath": "staticwebassets\\KOI\\mameshibori-goshiki.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\platinum-ogon.jpg",
+      "PackagePath": "staticwebassets\\KOI\\platinum-ogon.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\shiro-utsuri.jpg",
+      "PackagePath": "staticwebassets\\KOI\\shiro-utsuri.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\tancho-kohaku.jpg",
+      "PackagePath": "staticwebassets\\KOI\\tancho-kohaku.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\tancho-sanke.jpg",
+      "PackagePath": "staticwebassets\\KOI\\tancho-sanke.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\KOI\\tancho–showa.jpg",
+      "PackagePath": "staticwebassets\\KOI\\tancho–showa.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\.npmignore",
+      "PackagePath": "staticwebassets\\admin\\.npmignore"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\admin\\Gruntfile.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\LICENSE",
+      "PackagePath": "staticwebassets\\admin"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\README.md",
+      "PackagePath": "staticwebassets\\admin\\README.md"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\bower.json",
+      "PackagePath": "staticwebassets\\admin\\bower.json"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\.csscomb.json",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\.csscomb.json"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\.csslintrc",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\.csslintrc"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\alerts.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\alerts.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\badges.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\badges.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\bootstrap.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\bootstrap.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\breadcrumbs.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\breadcrumbs.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\button-groups.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\button-groups.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\buttons.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\buttons.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\carousel.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\carousel.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\close.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\close.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\code.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\code.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\component-animations.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\component-animations.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\dropdowns.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\dropdowns.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\forms.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\forms.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\glyphicons.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\glyphicons.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\grid.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\grid.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\input-groups.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\input-groups.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\jumbotron.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\jumbotron.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\labels.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\labels.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\list-group.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\list-group.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\media.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\media.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\alerts.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\alerts.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\background-variant.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\background-variant.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\border-radius.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\border-radius.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\buttons.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\buttons.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\center-block.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\center-block.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\clearfix.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\clearfix.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\forms.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\forms.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\gradients.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\gradients.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\grid-framework.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\grid-framework.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\grid.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\grid.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\hide-text.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\hide-text.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\image.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\image.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\labels.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\labels.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\list-group.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\list-group.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\nav-divider.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\nav-divider.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\nav-vertical-align.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\nav-vertical-align.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\opacity.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\opacity.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\pagination.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\pagination.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\panels.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\panels.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\progress-bar.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\progress-bar.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\reset-filter.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\reset-filter.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\reset-text.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\reset-text.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\resize.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\resize.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\responsive-visibility.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\responsive-visibility.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\size.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\size.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\tab-focus.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\tab-focus.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\table-row.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\table-row.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\text-emphasis.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\text-emphasis.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\text-overflow.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\text-overflow.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\mixins\\vendor-prefixes.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\mixins\\vendor-prefixes.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\modals.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\modals.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\navbar.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\navbar.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\navs.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\navs.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\normalize.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\normalize.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\pager.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\pager.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\pagination.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\pagination.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\panels.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\panels.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\popovers.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\popovers.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\print.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\print.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\progress-bars.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\progress-bars.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\responsive-embed.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\responsive-embed.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\responsive-utilities.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\responsive-utilities.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\scaffolding.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\scaffolding.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\tables.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\tables.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\theme.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\theme.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\thumbnails.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\thumbnails.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\tooltip.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\tooltip.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\type.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\type.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\utilities.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\utilities.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\variables.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\bootstrap-less\\wells.less",
+      "PackagePath": "staticwebassets\\admin\\build\\bootstrap-less\\wells.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\grunt\\.jshintrc",
+      "PackagePath": "staticwebassets\\admin\\build\\grunt\\.jshintrc"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\js\\.jscsrc",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\.jscsrc"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\.jshintrc"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\js\\BoxRefresh.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\BoxRefresh.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\js\\BoxWidget.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\BoxWidget.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\js\\ControlSidebar.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\ControlSidebar.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\js\\DirectChat.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\DirectChat.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\js\\Layout.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\Layout.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\js\\PushMenu.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\PushMenu.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\js\\TodoList.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\TodoList.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\js\\Tree.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\Tree.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\.csslintrc",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\.csslintrc"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\404_500_errors.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\404_500_errors.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\AdminLTE-without-plugins.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\AdminLTE-without-plugins.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\AdminLTE.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\AdminLTE.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\alerts.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\alerts.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\bootstrap-social.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\bootstrap-social.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\boxes.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\boxes.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\buttons.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\buttons.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\callout.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\callout.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\carousel.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\carousel.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\control-sidebar.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\control-sidebar.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\core.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\core.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\datepicker.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\datepicker.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\direct-chat.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\direct-chat.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\dropdown.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\dropdown.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\forms.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\forms.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\fullcalendar.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\fullcalendar.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\header.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\header.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\info-box.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\info-box.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\invoice.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\invoice.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\labels.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\labels.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\lockscreen.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\lockscreen.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\login_and_register.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\login_and_register.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\mailbox.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\mailbox.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\miscellaneous.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\miscellaneous.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\modal.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\modal.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\navs.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\navs.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\plugins.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\plugins.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\print.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\print.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\products.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\products.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\profile.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\profile.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\progress-bars.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\progress-bars.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\select2.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\select2.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\sidebar-mini.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\sidebar-mini.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\sidebar.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\sidebar.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\_all-skins.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\_all-skins.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-black-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-black-light.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-black.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-black.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-blue-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-blue-light.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-blue.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-blue.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-green-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-green-light.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-green.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-green.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-purple-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-purple-light.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-purple.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-purple.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-red-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-red-light.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-red.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-red.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-yellow-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-yellow-light.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\skins\\skin-yellow.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-yellow.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\small-box.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\small-box.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\social-widgets.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\social-widgets.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\table.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\table.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\timeline.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\timeline.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\treeview.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\treeview.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\users-list.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\users-list.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\build\\less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\changelog.md",
+      "PackagePath": "staticwebassets\\admin\\changelog.md"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\composer.json",
+      "PackagePath": "staticwebassets\\admin\\composer.json"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\AdminLTE.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\AdminLTE.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\AdminLTE.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\AdminLTE.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-bootstrap-social.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-bootstrap-social.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-fullcalendar.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-fullcalendar.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-select2.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-select2.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-select2.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-select2.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-without-plugins.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-without-plugins.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-without-plugins.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-without-plugins.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\_all-skins.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\_all-skins.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\_all-skins.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\_all-skins.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-black-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-black-light.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-black-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-black-light.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-black.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-black.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-black.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-black.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-blue-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-blue-light.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-blue-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-blue-light.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-blue.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-blue.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-blue.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-blue.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-green-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-green-light.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-green-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-green-light.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-green.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-green.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-green.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-green.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-purple-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-purple-light.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-purple-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-purple-light.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-purple.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-purple.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-purple.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-purple.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-red-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-red-light.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-red-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-red-light.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-red.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-red.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-red.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-red.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-yellow-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-yellow-light.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-yellow-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-yellow-light.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-yellow.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-yellow.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\css\\skins\\skin-yellow.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-yellow.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\avatar04.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\avatar04.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\mestro.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\default-50x50.gif",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\default-50x50.gif"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\adminlte-options.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\adminlte-options.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\advice.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\advice.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\browsers.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\browsers.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\components.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\components.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\dependencies.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\dependencies.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\download.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\download.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\faq.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\faq.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\implementations.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\implementations.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\introduction.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\introduction.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\layout.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\layout.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\license.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\license.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\plugins.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\plugins.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\include\\upgrade.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\include\\upgrade.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\build\\index.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\build\\index.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\docs.js",
+      "PackagePath": "staticwebassets\\admin\\documentation\\docs.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\index.html",
+      "PackagePath": "staticwebassets\\admin\\documentation\\index.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\documentation\\style.css",
+      "PackagePath": "staticwebassets\\admin\\documentation\\style.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\index.html",
+      "PackagePath": "staticwebassets\\admin\\index.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\index2.html",
+      "PackagePath": "staticwebassets\\admin\\index2.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\package-lock.json",
+      "PackagePath": "staticwebassets\\admin\\package-lock.json"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\package.json",
+      "PackagePath": "staticwebassets\\admin\\package.json"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\UI\\buttons.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\UI\\buttons.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\UI\\general.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\UI\\general.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\UI\\icons.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\UI\\icons.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\UI\\modals.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\UI\\modals.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\UI\\sliders.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\UI\\sliders.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\UI\\timeline.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\UI\\timeline.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\calendar.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\calendar.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\charts\\flot.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\charts\\flot.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\charts\\inline.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\charts\\inline.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\charts\\morris.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\charts\\morris.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\examples\\404.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\examples\\404.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\examples\\500.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\examples\\500.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\examples\\blank.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\examples\\blank.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\examples\\invoice-print.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\examples\\invoice-print.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\examples\\invoice.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\examples\\invoice.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\examples\\lockscreen.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\examples\\lockscreen.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\examples\\login.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\examples\\login.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\examples\\pace.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\examples\\pace.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\examples\\profile.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\examples\\profile.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\examples\\register.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\examples\\register.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\forms\\advanced.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\forms\\advanced.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\forms\\editors.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\forms\\editors.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\forms\\general.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\forms\\general.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\layout\\boxed.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\layout\\boxed.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\layout\\collapsed-sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\layout\\collapsed-sidebar.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\layout\\fixed.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\layout\\fixed.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\layout\\top-nav.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\layout\\top-nav.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\mailbox\\compose.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\mailbox\\compose.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\mailbox\\mailbox.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\mailbox\\mailbox.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\mailbox\\read-mail.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\mailbox\\read-mail.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\tables\\data.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\tables\\data.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\tables\\simple.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\tables\\simple.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\pages\\widgets.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\widgets.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\bootstrap-slider\\slider.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-slider\\slider.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\bootstrap-wysihtml5\\newFile.1.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-wysihtml5\\newFile.1.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\bootstrap-wysihtml5\\newFile.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-wysihtml5\\newFile.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\all.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\all.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\_all.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\aero.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\aero.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\aero.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\blue.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\blue.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\blue.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\flat.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\flat.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\flat.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\green.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\green.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\green.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\green.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\green@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\grey.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\grey.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\grey.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\orange.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\orange.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\orange.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\pink.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\pink.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\pink.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\purple.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\purple.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\purple.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\red.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\red.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\red.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\red.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\red@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\yellow.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\yellow.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\yellow.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\futurico\\futurico.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\futurico\\futurico.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\futurico\\futurico.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\futurico\\futurico.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\futurico\\futurico@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\futurico\\futurico@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\icheck.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\icheck.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\icheck.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\_all.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\_all.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\aero.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\aero.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\blue.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\blue.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\green.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\green.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\grey.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\grey.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\line.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\line.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\line.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\line.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\line@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\orange.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\orange.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\pink.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\pink.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\purple.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\purple.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\red.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\red.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\line\\yellow.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\yellow.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\_all.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\aero.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\aero.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\aero.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\blue.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\blue.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\blue.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\green.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\green.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\green.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\grey.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\grey.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\grey.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\minimal.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\minimal.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\minimal.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\minimal.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\minimal@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\minimal@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\orange.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\orange.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\orange.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\pink.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\pink.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\pink.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\purple.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\purple.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\purple.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\red.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\red.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\red.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\yellow.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\yellow.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\yellow.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\polaris\\polaris.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\polaris\\polaris.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\polaris\\polaris.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\polaris\\polaris.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\polaris\\polaris@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\polaris\\polaris@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\_all.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\_all.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\aero.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\aero.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\aero.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\aero.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\aero@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\blue.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\blue.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\blue.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\blue@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\green.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\green.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\green.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\green.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\green@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\grey.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\grey.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\grey.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\grey.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\grey@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\orange.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\orange.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\orange.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\orange.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\orange@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\pink.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\pink.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\pink.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\pink.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\pink@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\purple.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\purple.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\purple.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\purple.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\purple@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\red.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\red.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\red.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\red.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\red@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\square.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\square.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\square.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\square.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\square@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\yellow.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\yellow.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\yellow.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\iCheck\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.date.extensions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.date.extensions.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.extensions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.extensions.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.numeric.extensions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.numeric.extensions.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.phone.extensions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.phone.extensions.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.regex.extensions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.regex.extensions.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\input-mask\\phone-codes\\phone-be.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\phone-codes\\phone-be.json"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\input-mask\\phone-codes\\phone-codes.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\phone-codes\\phone-codes.json"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\input-mask\\phone-codes\\readme.txt",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\phone-codes\\readme.txt"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\jQueryUI\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jQueryUI\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\jQueryUI\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jQueryUI\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\jvectormap\\jquery-jvectormap-usa-en.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jvectormap\\jquery-jvectormap-usa-en.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\pace\\pace.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\pace\\pace.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\pace\\pace.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\pace\\pace.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\pace\\pace.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\pace\\pace.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\pace\\pace.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\timepicker\\bootstrap-timepicker.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\timepicker\\bootstrap-timepicker.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\timepicker\\bootstrap-timepicker.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\timepicker\\bootstrap-timepicker.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\timepicker\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\timepicker\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\plugins\\timepicker\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\timepicker\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\starter.html",
+      "PackagePath": "staticwebassets\\admin\\starter.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\admin\\yarn.lock",
+      "PackagePath": "staticwebassets\\admin\\yarn.lock"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\copy.html",
+      "PackagePath": "staticwebassets\\copy.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\css\\splide.css",
+      "PackagePath": "staticwebassets\\css\\splide.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\img\\icon_full_1.svg",
+      "PackagePath": "staticwebassets\\img\\icon_full_1.svg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\img\\library_hero_image_template.jpg",
+      "PackagePath": "staticwebassets\\img\\library_hero_image_template.jpg"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\js\\splide.js",
+      "PackagePath": "staticwebassets\\js\\splide.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\signin.html",
+      "PackagePath": "staticwebassets\\signin.html"
+    },
+    {
+      "Id": "D:\\AppData\\Visual Studio\\Repos\\CakoiGame.WebApp\\CakoiGame.WebApp\\wwwroot\\signup.html",
+      "PackagePath": "staticwebassets\\signup.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CakoiGame.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CakoiGame.WebApp.props",
+      "PackagePath": "build\\CakoiGame.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CakoiGame.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\CakoiGame.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CakoiGame.WebApp.props",
+      "PackagePath": "buildTransitive\\CakoiGame.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

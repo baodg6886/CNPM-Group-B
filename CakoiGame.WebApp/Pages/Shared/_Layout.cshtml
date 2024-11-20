@@ -1,0 +1,66 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Koi Farm</title>
+    <meta content="The official Koi Farm Game website" name="description">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+
+    <meta content="The official Koi Farm Game website" property="og:title">
+    <meta content="website" property="og:type">
+    <meta content="https://koifarmgame.com" property="og:url">
+    <meta content="https://koifarmgame.com/img/og_image.png" property="og:image">
+    <meta content="Koi Farm is a game about playing with koi ponds. Explore an infinite number of procedurally generated koi patterns by crossbreeding your fish, and discover new mutations as you go along."
+          property="og:description">
+
+    <link href="site.webmanifest" rel="manifest">
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+    <link href="~/css/main.css" rel="stylesheet">
+    <link href="~/css/index.css" rel="stylesheet">
+    <link href="~/css/splide.css" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com/css2?family=Grandstander:wght@900&family=Roboto&display=swap"
+          rel="stylesheet">
+    <script src="~/js/splide.js" asp-append-version="true"></script>
+    <meta content="#fafafa" name="theme-color">
+</head>
+
+<body>
+    <header>
+        <nav class="nav">
+            <div class="buttons">
+                <a href="/">Home</a>
+                <a href="store.html">Store</a>
+                <a href="contact.html">Contact</a>
+                <!-- signup -->
+                <a asp-area="" asp-page="SignUp">Sign Up</a>
+                <!-- login -->
+                <a asp-area="" asp-page="SignIn">Sign In</a>
+            </div>
+        </nav>
+
+        <div id="hero">
+            <img class="hero-logo" alt="Koi Farm Logo" src="img/Icon_full_1.svg">
+        </div>
+    </header>
+
+    <div id="content">
+        @RenderBody()
+    </div>
+
+    <footer>
+        <p>
+            Koi Farm © 2021 - <span id="current-year">2023</span> Job Talle
+        </p>
+
+        <div id="policies"><a href="https://koifarmgame.com/privacypolicy.html">Privacy Policy</a></div>
+    </footer>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+
+</html>
