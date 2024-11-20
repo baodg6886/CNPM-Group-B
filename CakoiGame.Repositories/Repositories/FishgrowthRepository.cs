@@ -13,13 +13,12 @@ namespace CakoiGame.Repositories.Repositories
     {
         private readonly CakoiContext _context;
 
-        // Constructor nhận DbContext qua Dependency Injection
         public FishgrowthRepository(CakoiContext context)
         {
             _context = context;
         }
 
-        // Lấy tất cả các Fishgrowth
+   
         public async Task<List<Fishgrowth>> GetAllAsync()
         {
             return await _context.Fishgrowths.ToListAsync();
@@ -59,9 +58,3 @@ namespace CakoiGame.Repositories.Repositories
     }
 }
 
-namespace CakoiGame.Repositories.Repositories
-{
-    internal class FishgrowthRepository
-    {
-    }
-}
