@@ -21,33 +21,30 @@ namespace CakoiGame.Repositories.Repositories
                 _context = context;
             }
 
-            // Lấy tất cả các sản phẩm Cakoi
             public async Task<List<ProductCakoi>> GetAllAsync()
             {
                 return await _context.ProductCakois.ToListAsync();
             }
 
-            // Lấy một sản phẩm Cakoi theo ID
+        
             public async Task<ProductCakoi> GetByIdAsync(int id)
             {
                 return await _context.ProductCakois.FindAsync(id);
             }
 
-            // Thêm một sản phẩm Cakoi
             public async Task AddAsync(ProductCakoi productCakoi)
             {
                 await _context.ProductCakois.AddAsync(productCakoi);
                 await _context.SaveChangesAsync();
             }
 
-            // Cập nhật một sản phẩm Cakoi
             public async Task UpdateAsync(ProductCakoi productCakoi)
             {
                 _context.ProductCakois.Update(productCakoi);
                 await _context.SaveChangesAsync();
             }
 
-            // Xóa một sản phẩm Cakoi
+          
             public async Task DeleteAsync(int id)
             {
                 var productCakoi = await _context.ProductCakois.FindAsync(id);
