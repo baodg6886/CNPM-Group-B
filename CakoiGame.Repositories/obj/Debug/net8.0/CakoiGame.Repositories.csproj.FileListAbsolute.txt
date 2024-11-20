@@ -1,0 +1,14 @@
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\bin\Debug\net8.0\CakoiGame.Repositories.deps.json
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\bin\Debug\net8.0\CakoiGame.Repositories.runtimeconfig.json
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\bin\Debug\net8.0\CakoiGame.Repositories.dll
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\bin\Debug\net8.0\CakoiGame.Repositories.pdb
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\obj\Debug\net8.0\CakoiGame.Repositories.csproj.AssemblyReference.cache
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\obj\Debug\net8.0\CakoiGame.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\obj\Debug\net8.0\CakoiGame.Repositories.AssemblyInfoInputs.cache
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\obj\Debug\net8.0\CakoiGame.Repositories.AssemblyInfo.cs
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\obj\Debug\net8.0\CakoiGame.Repositories.csproj.CoreCompileInputs.cache
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\obj\Debug\net8.0\CakoiGame.Repositories.dll
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\obj\Debug\net8.0\refint\CakoiGame.Repositories.dll
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\obj\Debug\net8.0\CakoiGame.Repositories.pdb
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\obj\Debug\net8.0\CakoiGame.Repositories.genruntimeconfig.cache
+D:\AppData\Visual Studio\Repos\CakoiGame.WebApp\CakoiGame.Repositories\obj\Debug\net8.0\ref\CakoiGame.Repositories.dll
