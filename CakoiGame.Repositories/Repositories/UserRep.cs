@@ -26,7 +26,7 @@ namespace CakoiGame.Repositories.Repositories
 
         public async Task<QlUser> GetAllUserByIdAsync(int itemid)
         {
-            // return await _context.QlUsers.FindAsync(id);
+          
             return await _context.QlUsers.FirstOrDefaultAsync(x => x.IdqlUser == itemid);
         }
 
